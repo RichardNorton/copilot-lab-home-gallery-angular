@@ -24,7 +24,7 @@ For the next a couple of lab exercises, we will
 - Create documentation
 - Create tests
 
-There are many other things that Copilot can helkp you with. Feel free to explore command in the `Copilot chat` or `Drop down menus` like:
+There are many other things that Copilot can help you with. Feel free to explore command in the `Copilot chat` or `Drop down menus` like:
 
 - `/fix`: to fix the problems in your code
 - `/explain`: for Copilot to explain you what the code does
